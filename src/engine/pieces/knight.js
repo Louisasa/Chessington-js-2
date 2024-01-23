@@ -9,3 +9,4 @@ export default class Knight extends Piece {
         return new Array(0);
     }
 }
+ 
